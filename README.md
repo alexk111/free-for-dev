@@ -1863,6 +1863,7 @@ Update Time, five active automations, webhooks.
   * [Tiledesk](https://tiledesk.com) - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget) to WhatsApp. Free plan with unlimited chatbots.
   * [Versionfeeds](https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
   * [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
+  * [Freeter](https://freeter.io/) - Free open-source organizer to work smarter on your computer. Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Windows, Mac OSX and Linux.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
